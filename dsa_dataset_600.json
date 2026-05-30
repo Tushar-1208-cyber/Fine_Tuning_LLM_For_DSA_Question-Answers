@@ -1,0 +1,2402 @@
+[
+    {
+        "input": "Explain space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary tree used?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is linear search used?",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is recursion?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BST?",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is queue?",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe recursion.",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is recursion used?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is backtracking?",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is greedy algorithm used?",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is bubble sort?",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary search?",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is mergesort used?",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe bubble sort.",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary tree used?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define dynamic programming.",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is time complexity used?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is greedy algorithm?",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain bubble sort.",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is selection sort?",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is DFS used?",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is selection sort used?",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is priority queue used?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is quicksort?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary search?",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is queue?",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define heap.",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is memoization used?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BFS?",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is hashing?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is time complexity used?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is DFS used?",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is memoization used?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is hashing used?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is divide and conquer used?",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe linked list.",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is time complexity?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is graph?",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BST?",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BFS?",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is backtracking used?",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define linear search.",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe dynamic programming.",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is memoization?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is selection sort used?",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is quicksort used?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define linked list.",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is stack used?",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is mergesort used?",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is recursion used?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is memoization used?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define linear search.",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is recursion?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is BST used?",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary tree?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is time complexity?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is graph?",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is heap used?",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe bubble sort.",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is backtracking?",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is stack?",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is quicksort used?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is selection sort?",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is hashing?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is bubble sort used?",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is linked list used?",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain linked list.",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is bubble sort?",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is backtracking used?",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define linear search.",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe heap.",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define recursion.",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary tree?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain recursion.",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary search?",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is linked list used?",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is selection sort?",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain recursion.",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is divide and conquer?",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is dynamic programming?",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BST?",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is hashing used?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is hashing?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is bubble sort used?",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define dynamic programming.",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define heap.",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is hashing?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is linked list?",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define linear search.",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is bubble sort?",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define bubble sort.",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is tree used?",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define bubble sort.",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is heap?",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe heap.",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is time complexity used?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is heap used?",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is selection sort?",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary tree used?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is tree?",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is tree used?",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is quicksort?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is linked list?",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is backtracking used?",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is graph used?",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is priority queue?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is selection sort used?",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is BFS used?",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is space complexity used?",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary tree used?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is space complexity?",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is priority queue used?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define linked list.",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is greedy algorithm?",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is bubble sort used?",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is divide and conquer?",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is dynamic programming used?",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain dynamic programming.",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is dynamic programming?",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is priority queue?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is hashing?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is space complexity?",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe linked list.",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe bubble sort.",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BST?",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain linear search.",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is divide and conquer used?",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain linked list.",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is bubble sort used?",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is memoization?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is selection sort?",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is insertion sort?",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain dynamic programming.",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is priority queue used?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is mergesort?",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain linked list.",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is hashing used?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define recursion.",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is space complexity?",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is priority queue?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is linear search used?",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is linked list used?",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain dynamic programming.",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary search?",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is graph used?",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is insertion sort?",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is greedy algorithm?",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is BST used?",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is priority queue?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary tree used?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary tree?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary tree used?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is queue used?",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is linked list?",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is bubble sort used?",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain heap.",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is mergesort used?",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BST?",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is tree?",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain heap.",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary tree?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define bubble sort.",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is quicksort used?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is BFS used?",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is quicksort?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary search?",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is recursion used?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain linked list.",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is greedy algorithm used?",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is time complexity?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary tree?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is divide and conquer?",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is heap used?",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is memoization used?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is bubble sort?",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is recursion used?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BFS?",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BFS?",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is space complexity used?",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary tree?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is divide and conquer?",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is quicksort?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is recursion used?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is linked list used?",
+        "output": "Linked list is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary tree used?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BST?",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is priority queue?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is hashing used?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is memoization used?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is dynamic programming?",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary search used?",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is space complexity?",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is DFS?",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is recursion used?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary search?",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is tree used?",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is hashing?",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is BFS?",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define dynamic programming.",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is insertion sort?",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is insertion sort used?",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is dynamic programming used?",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is time complexity used?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is memoization?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is greedy algorithm?",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define DFS.",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is time complexity?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is tree used?",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is memoization?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary search used?",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is space complexity?",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is time complexity used?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is dynamic programming used?",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain linear search.",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is quicksort?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is DFS used?",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is BFS used?",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is memoization?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is memoization?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define BFS.",
+        "output": "Bfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is divide and conquer used?",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is recursion?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary tree?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain mergesort.",
+        "output": "Mergesort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is stack used?",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary tree used?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is backtracking?",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is BST used?",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary tree used?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is DFS?",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define bubble sort.",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain hashing.",
+        "output": "Hashing is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe recursion.",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is time complexity used?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is selection sort?",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain quicksort.",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is queue?",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain space complexity.",
+        "output": "Space complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary tree.",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is backtracking used?",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain dynamic programming.",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is graph?",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain memoization.",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain linear search.",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain divide and conquer.",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is quicksort used?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is recursion used?",
+        "output": "Recursion is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is priority queue used?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define selection sort.",
+        "output": "Selection sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define BST.",
+        "output": "Bst is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is priority queue used?",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is quicksort used?",
+        "output": "Quicksort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define bubble sort.",
+        "output": "Bubble sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is time complexity?",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is DFS used?",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is linear search?",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is stack used?",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define insertion sort.",
+        "output": "Insertion sort is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is DFS used?",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define linear search.",
+        "output": "Linear search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe dynamic programming.",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is DFS used?",
+        "output": "Dfs is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe greedy algorithm.",
+        "output": "Greedy algorithm is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is memoization?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is divide and conquer used?",
+        "output": "Divide and conquer is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is binary tree?",
+        "output": "Binary tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is binary search used?",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is heap?",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define graph.",
+        "output": "Graph is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain binary search.",
+        "output": "Binary search is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define heap.",
+        "output": "Heap is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe backtracking.",
+        "output": "Backtracking is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define tree.",
+        "output": "Tree is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Define time complexity.",
+        "output": "Time complexity is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain priority queue.",
+        "output": "Priority queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Describe queue.",
+        "output": "Queue is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Explain stack.",
+        "output": "Stack is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "What is memoization?",
+        "output": "Memoization is an important concept in data structures and algorithms used to solve problems efficiently."
+    },
+    {
+        "input": "Why is dynamic programming used?",
+        "output": "Dynamic programming is an important concept in data structures and algorithms used to solve problems efficiently."
+    }
+]
